@@ -20,8 +20,8 @@ export default Object.freeze({
   contacts: [
     {
       name: 'My CV',
-      address: 'Google Drive',
-      link: 'https://drive.google.com/open?id=10bREn8hR9nTNiEH9N6l-GQ0OIHsdcB0A',
+      address: 'AlexSkoropletov.doc',
+      link: '/CV-AlexSkoropletov-Fullstack-Javascript-Remote.doc',
     },
     {
       name: 'E-mail',
