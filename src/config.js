@@ -1,6 +1,6 @@
 export default Object.freeze({
   name: 'Alex Skoropletov',
-  title: 'Lead Software Developer',
+  title: 'Lead Software Engineer',
   started: 2007,
   remotely: 2013,
   stack: [
